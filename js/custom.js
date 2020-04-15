@@ -10,6 +10,7 @@ class bookMark {
     //     elsew
     // }
     
+    //switch tab
     switchTabs(p) {
         p.classList.add("red_border");
     }
